@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+
+<html>
+<h1>All the Animals</h1>
+
+<h2>Rabbit:</h2>
+<img src="./r1.jpg" alt="width:500px;height:600px;" />
+
+
+<h2>Cat:</h2>
+<img src="c1.jpg" alt="width:500px;height:600px;" />
+
+
+<h2>Dog:</h2>
+<img src="d1.jpg" alt="width:500px;height:600px;" />
+
+
+<h2>Fish:</h2>
+<img src="f1.jpg" alt="width:500px;height:600px;" />
+
+
+<h2>Bird:</h2>
+<img src="b1.jpg" alt="width:500px;height:600px;" />
+
+</html>
